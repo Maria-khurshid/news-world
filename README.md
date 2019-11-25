@@ -1,3 +1,12 @@
+https://maria-news-app.firebaseapp.com
+
+https://maria-news-app.web.app
+
+
+
+
+
+
 
 published at gh-pages  https://Maria-khurshid.github.io/news-world/ 
 
