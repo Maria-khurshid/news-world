@@ -18,10 +18,9 @@ export default class App extends Component {
 					padding: '0%',
 				}}
 			>
-				<header className="App-header">
-					<NavBar />
-				</header>
 				<Router>
+					<NavBar />
+
 					<Switch>
 						<Route path="/" exact component={Home} />
 						<Route path="/Home" component={Home} />
